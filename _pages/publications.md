@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publications/
-nav: true
+nav: false
 ---
 
 A full list is also available on Google Scholar (link below).
