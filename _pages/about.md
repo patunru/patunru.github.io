@@ -1,7 +1,9 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Economist. Policy & Engagement Manager, ANU Indonesia Project
 
 profile:
