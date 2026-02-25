@@ -10,9 +10,8 @@ nav_order: 7
 
 ### Australian National University (2012–2019)
 
-- **Agricultural Economics and Resource Policy (IDEC8018)**
-- **Contemporary Perspectives in Environment–Society Interaction (ENVS8016)**
-- Invited lectures and specialist sessions
+- **Agricultural Economics and Resource Policy (IDEC8018)**, invited sessions
+- **Contemporary Perspectives in Environment–Society Interaction (ENVS8016)**, invited sessions
 
 ---
 
