@@ -9,9 +9,7 @@ last_name: Patunru
 email: arianto.patunru@anu.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Economist and Policy & Engagement Manager at the ANU Indonesia Project (Crawford School of Public Policy, Australian National University).
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+footer_text: 
 keywords: Indonesia, trade, FDI, global value chains, policy, economics, environment, climate change
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
