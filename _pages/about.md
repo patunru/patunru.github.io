@@ -30,3 +30,16 @@ I am an economist and Policy & Engagement Manager at the ANU Indonesia Project (
 - Global value chains and value-added trade measurement
 - Political economy of reform
 - Environment, energy, and climate policy
+
+<hr>
+
+<p>
+  <strong>Quick links:</strong>
+  <a href="mailto:arianto.patunru@anu.edu.au">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://scholar.google.com.au/citations?user=dQG6yn4AAAAJ&hl=en" target="_blank" rel="noopener">Google Scholar</a>
+  &nbsp;·&nbsp;
+  <a href="https://orcid.org/0000-0002-2222-2419" target="_blank" rel="noopener">ORCID</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/arianto-patunru-469a7499/" target="_blank" rel="noopener">LinkedIn</a>
+</p>
