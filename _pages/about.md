@@ -43,3 +43,10 @@ I am an economist and Policy & Engagement Manager at the ANU Indonesia Project (
   &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/arianto-patunru-469a7499/" target="_blank" rel="noopener">LinkedIn</a>
 </p>
+
+---
+
+**Highlights**
+- **Publications:** *Journal of Development Studies*, *The World Economy*, and *American Journal of Agricultural Economics* (see [Papers](/papers/)).
+- **Policy analysis:** Indonesia’s trade and industrial policies (see [Policy](/policy/)).
+- **Policy dialogue:** Australia–Indonesia policy dialogue and engagement activities (see [Policy](/policy/)).
