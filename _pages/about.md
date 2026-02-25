@@ -22,4 +22,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an economist and Policy & Engagement Manager at the ANU Indonesia Project (Crawford School of Public Policy, Australian National University). My research focuses on Indonesia and Southeast Asia, with interests in trade and investment, manufacturing and export performance, global value chains, and the political economy of reform. I work at the intersection of research and policy engagement, including dialogue with government agencies and stakeholders in Indonesia and Australia.
+I am an economist and Policy & Engagement Manager at the ANU Indonesia Project (Crawford School of Public Policy, Australian National University). My work sits at the intersection of research and policy engagement, including dialogue with government agencies and stakeholders in Indonesia and Australia.
+
+**Research themes**
+- International trade and trade policy (Indonesia and Southeast Asia)
+- Foreign direct investment, firm performance, and manufacturing competitiveness
+- Global value chains and value-added trade measurement
+- Political economy of reform
+- Environment, energy, and climate policy
