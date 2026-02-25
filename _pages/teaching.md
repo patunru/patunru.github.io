@@ -100,10 +100,8 @@ nav_order: 7
 - **M. Rheza Ramadan** (2023) — Thin capitalisation rule  
 - **Rezky Zain** (2022) — Energy and emissions  
   *Winner, 2022 Helen Hughes Prize*
-
 - **Nauval Hafiluddin** (2021) — Foreign direct investment  
   *Winner, 2021 Helen Hughes Prize*
-
 - **Rachmad M. Arifuddin** (2021) — Universal health insurance  
 - **Realita Eschachasti** (2020) — Trade and COVID-19  
 - **Priyo Anggono** (2020) — Fiscal decentralisation  
