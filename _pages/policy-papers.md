@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Policy Papers
+title: Policy
 permalink: /policy-papers/
 nav: true
-nav_order: 8
+nav_order: 5
 ---
 
 ## Policy Papers
