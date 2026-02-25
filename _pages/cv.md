@@ -10,7 +10,7 @@ nav_order: 8
 
 A full version of my curriculum vitae is available here:
 
-[Download CV (PDF)](/assets/pdf/Your-CV-Filename.pdf)
+[Download CV (PDF)](/assets/pdf/cv-Patunru.pdf)
 
 ---
 
