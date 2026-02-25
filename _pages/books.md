@@ -6,7 +6,6 @@ nav: true
 nav_order: 2
 ---
 
-## Books
 
 ### **Globalization, Poverty, and Income Inequality: Insights from Indonesia**  
 Barichello, Richard; Patunru, Arianto A.; and Schwindt, Richard (Eds).  
