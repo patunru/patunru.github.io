@@ -31,6 +31,7 @@ nav_order: 5
 ## Recent Op-eds & Commentary
 
 ### 2026
+
 **Is the Feb. 19 Indonesia–US trade deal fair?**  
 *The Jakarta Post*, 24 February 2026.
 
@@ -40,6 +41,7 @@ nav_order: 5
 ---
 
 ### 2025
+
 **Indonesia's school lunches: Not so free** (with Maria M. Wihardja)  
 *Fulcrum*, 6 February 2025.
 
@@ -50,6 +52,7 @@ nav_order: 5
 ---
 
 ### 2024
+
 **President Prabowo's challenging economic inheritance**  
 *Asialink*, 24 October 2024.
 
@@ -59,6 +62,7 @@ nav_order: 5
 ---
 
 ### 2023
+
 **Industrial policy makes a comeback in East Asia**  
 *East Asia Forum*, 22 December 2023.
 
@@ -71,6 +75,49 @@ nav_order: 5
 **Australia and Indonesia: neighbours forever, but more ambition needed**  
 (with Hal Hill)  
 *Asialink*, 6 July 2023.
+
+---
+
+### 2022
+
+**Indonesia is missing out on income from services industries**  
+(with Sulistiyo K. Ardiyono)  
+*East Asia Forum*, 21 December 2022.
+
+**Indonesia's protectionism debate needs more than domestic input**  
+(with Deasy D. Pane)  
+*East Asia Forum*, 8 October 2022.
+
+**To ban or not to ban? How Indonesia can overcome the global food crisis**  
+(with Maria M. Wihardja)  
+*Fulcrum*, 30 May 2022.
+
+---
+
+### 2021
+
+**On the inaugural Indonesia–Australia Economic, Trade and Investment Ministers' Meeting**  
+*Indonesia Project Forum*, 9 July 2021.
+
+---
+
+### 2020
+
+**Indonesia signed RCEP, what next?**  
+(with Ira Aprilianti)  
+*East Asia Forum*, 3 December 2020.
+
+**Indonesia's PPE export ban backfires**  
+(with Krisna Gupta)  
+*East Asia Forum*, 16 June 2020.
+
+**COVID-19 unmasks Indonesia's investment conditions**  
+(with Andree Surianta)  
+*East Asia Forum*, 25 May 2020.
+
+**Jokowi wants Indonesia to be rich by 2045**  
+(with Hal Hill)  
+*Australian Financial Review*, 7 February 2020.
 
 ---
 
