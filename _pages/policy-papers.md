@@ -36,7 +36,7 @@ nav_order: 5
 *The Jakarta Post*, [24 February 2026.](https://www.thejakartapost.com/opinion/2026/02/24/is-the-feb-19-indonesiaus-trade-deal-fair.html)
 
 **Indonesia's economy needs credible policy, not quixotic targets**  
-*East Asia Forum*, 13 February 2026.
+*East Asia Forum*, [13 February 2026.](https://doi.org/10.59425/eabc.1770976800)
 
 ---
 
@@ -47,7 +47,7 @@ nav_order: 5
 
 **Indonesia's economic strategy is at odds with itself**  
 (with Krisna Gupta and Paul Gretton)  
-*East Asia Forum*, 8 January 2025.
+*East Asia Forum*, [8 January 2025.](https://doi.org/10.59425/eabc.1736373600)
 
 ---
 
@@ -64,10 +64,10 @@ nav_order: 5
 ### 2023
 
 **Industrial policy makes a comeback in East Asia**  
-*East Asia Forum*, 22 December 2023.
+*East Asia Forum*, [22 December 2023.](https://doi.org/10.59425/eabc.1703239220)
 
 **Leveraging lithium and nickel stocks to boost EV industry**  
-*East Asia Forum*, 26 October 2023.
+*East Asia Forum*, [26 October 2023.](https://doi.org/10.59425/eabc.1698314429)
 
 **Why Indonesia wants Australia's help to supply the world with electric vehicles and batteries**  
 *The Conversation*, 6 July 2023.
@@ -82,11 +82,11 @@ nav_order: 5
 
 **Indonesia is missing out on income from services industries**  
 (with Sulistiyo K. Ardiyono)  
-*East Asia Forum*, 21 December 2022.
+*East Asia Forum*, [21 December 2022.](https://eastasiaforum.org/2022/12/21/indonesia-is-missing-out-on-income-from-modern-services-industries/)
 
 **Indonesia's protectionism debate needs more than domestic input**  
 (with Deasy D. Pane)  
-*East Asia Forum*, 8 October 2022.
+*East Asia Forum*, [8 October 2022.](https://eastasiaforum.org/2022/10/08/indonesias-protectionism-debate-needs-more-than-domestic-input/)
 
 **To ban or not to ban? How Indonesia can overcome the global food crisis**  
 (with Maria M. Wihardja)  
@@ -105,15 +105,15 @@ nav_order: 5
 
 **Indonesia signed RCEP, what next?**  
 (with Ira Aprilianti)  
-*East Asia Forum*, 3 December 2020.
+*East Asia Forum*, [3 December 2020.](https://eastasiaforum.org/2020/12/03/indonesia-signed-rcep-what-next/)
 
 **Indonesia's PPE export ban backfires**  
 (with Krisna Gupta)  
-*East Asia Forum*, 16 June 2020.
+*East Asia Forum*, [16 June 2020.](https://eastasiaforum.org/2020/06/16/indonesias-ppe-export-ban-backfires/)
 
 **COVID-19 unmasks Indonesia's investment conditions**  
 (with Andree Surianta)  
-*East Asia Forum*, 25 May 2020.
+*East Asia Forum*, [25 May 2020.](https://eastasiaforum.org/2020/05/25/covid-19-unmasks-indonesias-investment-conditions/)
 
 **Jokowi wants Indonesia to be rich by 2045**  
 (with Hal Hill)  
