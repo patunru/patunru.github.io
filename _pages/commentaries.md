@@ -13,29 +13,29 @@ nav_order: 5
 ## Book Reviews
 
 **Economic change in modern Indonesia: Colonial and post-colonial comparisons**, by Anne Booth.  
-Reviewed in *Economics and Finance in Indonesia* 65(1), 2019: 89–91.
+Reviewed in *Economics and Finance in Indonesia* [65(1), 2019: 89–91.]([https://doi.org/10.47291/efi.v65i1.639](https://scholarhub.ui.ac.id/cgi/viewcontent.cgi?article=1074&context=efi))
 
 **Indonesian economy: Entering a new era**, by Aris Ananta, Muljana Soekarni and Sjamsul Arifin.  
-Reviewed in *The Singapore Economic Review* 58(2), 2013.
+Reviewed in *The Singapore Economic Review* [58(2), 2013.](https://doi.org/10.1142/S0217590813800040)
 
 **Land, livelihood, the economy and the environment in Indonesia: Essays in honour of Joan Hardjono**.  
-Reviewed in *Bulletin of Indonesian Economic Studies* 49(1), 2013: 121–123.
+Reviewed in *Bulletin of Indonesian Economic Studies* [49(1), 2013: 121–123.](https://doi.org/10.1080/00074918.2013.772947)
 
 ---
 
 ## Comments on Papers
 
 **Comment on “Price pass-through, household expenditures, and industrial structure: The case of Taiwan”**, by Kuo and Peng.  
-In Takatoshi Ito and Andrew K. Rose (Eds.), *Commodity Prices and Markets (NBER East Asia Seminar on Economics)*. University of Chicago Press, 2011.
+In Takatoshi Ito and Andrew K. Rose (Eds.), *Commodity Prices and Markets (NBER East Asia Seminar on Economics)*. [University of Chicago Press, 2011.](https://www.nber.org/books-and-chapters/commodity-prices-and-markets/comment-price-pass-through-household-expenditure-and-industrial-structure-case-taiwan-patunru)
 
 **Comment on “Renminbi internalization: Prospect and implications for economic integration in East Asia”**, by Yung Chul Park and Chi-Young Son.  
-*Asian Economic Papers* 10(3), 2011: 73–74.
+*Asian Economic Papers* [10(3), 2011: 73–74.](https://doi.org/10.1162/ASEP_a_00101)
 
 **Comment on “United States, Japanese, and Korean FDI and intra-East Asian trade”**, by Kwong-Chiu Fung, Hitomi Iizaka, and Alan Siu.  
-*Asian Economic Papers* 9(3), 2010: 155–156.
+*Asian Economic Papers* [9(3), 2010: 155–156.](https://doi.org/10.1162/ASEP_a_00041)
 
 **Comment on “Firm heterogeneity in the choice of offshoring: Evidence from Korean manufacturing firms”**, by Hea-Jung Hyun.  
-*Asian Economic Papers* 9(1), 2010: 179–180.
+*Asian Economic Papers* [9(1), 2010: 179–180.[(https://doi.org/10.1162/asep.2010.9.1.179)
 
 ---
 
