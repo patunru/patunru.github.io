@@ -8,7 +8,7 @@ nav_order: 5
 
 ## Policy Engagement
 
-**2023–present** — Chairman, Center for Indonesian Policy Studies (CIPS)  
+**2023–present** — Chairman, [Center for Indonesian Policy Studies (CIPS)[(https://www.cips-indonesia.org)  
 
 **2021–present** — Convenor, ANU–CIPS Indonesia Policy Dialogue Series  
 
