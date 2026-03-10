@@ -33,7 +33,7 @@ nav_order: 5
 ### 2026
 
 **Is the Feb. 19 Indonesia–US trade deal fair?**  
-*The Jakarta Post*, 24 February 2026.
+*The Jakarta Post*, [24 February 2026.](https://www.thejakartapost.com/opinion/2026/02/24/is-the-feb-19-indonesiaus-trade-deal-fair.html)
 
 **Indonesia's economy needs credible policy, not quixotic targets**  
 *East Asia Forum*, 13 February 2026.
