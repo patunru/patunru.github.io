@@ -13,7 +13,7 @@ nav_order: 5
 ## Book Reviews
 
 **Economic change in modern Indonesia: Colonial and post-colonial comparisons**, by Anne Booth.  
-Reviewed in *Economics and Finance in Indonesia* [65(1), 2019: 89–91.]([https://doi.org/10.47291/efi.v65i1.639](https://scholarhub.ui.ac.id/cgi/viewcontent.cgi?article=1074&context=efi))
+Reviewed in *Economics and Finance in Indonesia* [65(1), 2019: 89–91.](https://doi.org/10.47291/efi.v65i1.639)
 
 **Indonesian economy: Entering a new era**, by Aris Ananta, Muljana Soekarni and Sjamsul Arifin.  
 Reviewed in *The Singapore Economic Review* [58(2), 2013.](https://doi.org/10.1142/S0217590813800040)
@@ -35,7 +35,7 @@ In Takatoshi Ito and Andrew K. Rose (Eds.), *Commodity Prices and Markets (NBER 
 *Asian Economic Papers* [9(3), 2010: 155–156.](https://doi.org/10.1162/ASEP_a_00041)
 
 **Comment on “Firm heterogeneity in the choice of offshoring: Evidence from Korean manufacturing firms”**, by Hea-Jung Hyun.  
-*Asian Economic Papers* [9(1), 2010: 179–180.[(https://doi.org/10.1162/asep.2010.9.1.179)
+*Asian Economic Papers* [9(1), 2010: 179–180.](https://doi.org/10.1162/asep.2010.9.1.179)
 
 ---
 
