@@ -17,8 +17,8 @@ An edited volume examining the relationships between globalization, poverty, and
 
 **Reviews:**
 
-- Durongkaveroj, Wannaphong (2022), *Asian-Pacific Economic Literature* 36(1): 143–145.  
-- Booth, Anne (2022), *Bulletin of Indonesian Economic Studies* 58(3): 335–337.
+- Durongkaveroj, Wannaphong (2022), *Asian-Pacific Economic Literature* [36(1): 143–145.](https://doi.org/10.1111/apel.12356)  
+- Booth, Anne (2022), *Bulletin of Indonesian Economic Studies* [58(3): 335–337.](https://doi.org/10.1080/00074918.2022.2122975)
 
 ---
 
@@ -32,8 +32,8 @@ An edited volume examining Indonesia’s evolving position in the global economy
 
 **Reviews:**
 
-- Liddle, R. William (2018), *Asian-Pacific Economic Literature* 32(2): 139–141.  
-- Booth, Anne (2019), *Bulletin of Indonesian Economic Studies* 55(1): 119–121.
+- Liddle, R. William (2018), *Asian-Pacific Economic Literature* [32(2): 139–141.](https://doi.org/10.1111/apel.12245)  
+- Booth, Anne (2019), *Bulletin of Indonesian Economic Studies* [55(1): 119–121.](https://doi.org/10.1080/00074918.2019.1592278)
 
 ---
 
@@ -47,5 +47,5 @@ An edited volume examining trade, development, and political economy dynamics in
 
 **Reviews:**
 
-- Tham, Siew Yean (2015), *Asian-Pacific Economic Literature* 29(2): 115–116.  
-- Studwell, Joe (2016), *Bulletin of Indonesian Economic Studies* 52(2): 251–255.
+- Tham, Siew Yean (2015), *Asian-Pacific Economic Literature* [29(2): 115–116.](https://doi.org/10.1111/apel.12128)  
+- Studwell, Joe (2016), *Bulletin of Indonesian Economic Studies* [52(2): 251–255.](https://doi.org/10.1080/00074918.2016.1211078)
