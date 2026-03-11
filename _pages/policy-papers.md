@@ -42,8 +42,11 @@ nav_order: 5
 
 ### 2025
 
+**Can Indonesia rise to the Trump tariff challenge?**
+*Asialink*, [8 April 2025.](https://asialink.unimelb.edu.au/diplomacy/can-indonesia-rise-trump-tariff-challenge/)
+
 **Indonesia's school lunches: Not so free** (with Maria M. Wihardja)  
-*Fulcrum*, 6 February 2025.
+*Fulcrum*, [6 February 2025.](https://fulcrum.sg/indonesias-free-school-lunches-not-so-free/)
 
 **Indonesia's economic strategy is at odds with itself**  
 (with Krisna Gupta and Paul Gretton)  
@@ -54,7 +57,7 @@ nav_order: 5
 ### 2024
 
 **President Prabowo's challenging economic inheritance**  
-*Asialink*, 24 October 2024.
+*Asialink*, [24 October 2024.](https://asialink.unimelb.edu.au/diplomacy/article/prabowo-challenging-economic-inheritance/)
 
 **Pivotal economic challenges for the Prabowo administration**  
 *The Jakarta Post*, October–November 2024.
@@ -74,7 +77,7 @@ nav_order: 5
 
 **Australia and Indonesia: neighbours forever, but more ambition needed**  
 (with Hal Hill)  
-*Asialink*, 6 July 2023.
+*Asialink*, [6 July 2023.](https://asialink.unimelb.edu.au/diplomacy/article/australia-indonesia-more-ambition-needed/)
 
 ---
 
