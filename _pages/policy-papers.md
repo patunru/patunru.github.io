@@ -130,7 +130,7 @@ nav_order: 5
 
 **Indonesia–Australia Comprehensive Economic Partnership Agreement: Building the Powerhouse**  
 Patunru, Arianto A.; Surianta, Andree; and Audrine, Pingkan.  
-Policy Paper No. 33, Center for Indonesian Policy Studies, 2021.
+[Policy Paper No. 33](https://www.econstor.eu/bitstream/10419/249413/1/CIPS-PP33.pdf), Center for Indonesian Policy Studies, 2021.
 
 ---
 
@@ -138,11 +138,11 @@ Policy Paper No. 33, Center for Indonesian Policy Studies, 2021.
 
 **Attracting FDI post-COVID-19 by simplifying Indonesia's regulatory framework**  
 Patunru, Arianto A., and Surianta, Andree.  
-Policy Brief No. 4, Centre for Indonesian Policy Studies, 2020.
+[Policy Brief No. 4](https://www.cips-indonesia.org/publications/attracting-fdi-post-covid-19-by-simplifying-indonesia’s-regulatory-framework), Centre for Indonesian Policy Studies, 2020.
 
 **Mitigating food supply chain disruptions amid COVID-19**  
 Patunru, Arianto A.; Octania, Galuh; and Audrine, Pingkan.  
-Policy Brief No. 3, Centre for Indonesian Policy Studies, 2020.
+[Policy Brief No. 3](https://www.cips-indonesia.org/publications/mitigating-food-supply-chain-disruptions-amid-covid-19), Centre for Indonesian Policy Studies, 2020.
 
 ---
 
@@ -150,7 +150,7 @@ Policy Brief No. 3, Centre for Indonesian Policy Studies, 2020.
 
 **Political economy of rice policy in Indonesia: A perspective on the ASEAN Economic Community**  
 Patunru, Arianto A., and Ilman, Assyifa Szami.  
-Discussion Paper No. 6, Centre for Indonesian Policy Studies, 2019.
+[Discussion Paper No. 6](https://doi.org/10.35497/346118), Centre for Indonesian Policy Studies, 2019.
 
 ---
 
@@ -158,11 +158,11 @@ Discussion Paper No. 6, Centre for Indonesian Policy Studies, 2019.
 
 **Protecting the farmers: Improving the quality of social protection schemes for agricultural workers in Indonesia**  
 Patunru, Arianto A., and Respatiadi, Hizkia.  
-Policy Paper No. 9, Centre for Indonesian Policy Studies, 2017.
+[Policy Paper No. 9](https://doi.org/10.35497/270482), Centre for Indonesian Policy Studies, 2017.
 
 **Food Processing and Value Chain Development in Indonesia**  
 Neilson, Jeffrey; Morrison, Melanie; Dwiartama, Angga; Utami, Ranti; Patunru, Arianto; and Pritchard, Bill.  
-Australia–Indonesia Centre, Melbourne, 2017.
+[Australia–Indonesia Centre](https://doi.org/10.4225/03/5a2744eeee64b), Melbourne, 2017.
 
 ---
 
@@ -170,12 +170,12 @@ Australia–Indonesia Centre, Melbourne, 2017.
 
 **Trade protectionism in Indonesia: Bad times and bad policy**  
 Patunru, Arianto A., and Rahardja, Sjamsu.  
-Lowy Analysis, Lowy Institute for International Policy, July 2015.
+[Lowy Analysis](https://www.lowyinstitute.org/publications/trade-protectionism-indonesia-bad-times-bad-policy), Lowy Institute for International Policy, July 2015.
 
 **Forest ownership and management in Indonesia**  
 Patunru, Arianto A., and Haryoko, Anthea.  
-Policy Paper No. 2, Centre for Indonesian Policy Studies, 2015.
+[Policy Paper No. 2](https://www.jstor.org/stable/resrep62551), Centre for Indonesian Policy Studies, 2015.
 
 **Reducing the financial burden of Indonesian migrant workers**  
 Patunru, Arianto A., and Uddarojat, Rofi.  
-Policy Paper No. 1, Centre for Indonesian Policy Studies, 2015.
+[Policy Paper No. 1](https://www.jstor.org/stable/resrep62453), Centre for Indonesian Policy Studies, 2015.
