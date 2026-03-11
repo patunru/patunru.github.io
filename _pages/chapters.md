@@ -58,7 +58,7 @@ In Arianto A. Patunru, Mari Pangestu and M. Chatib Basri (Eds.), *[Indonesia in 
 
 **From cost disease to servicification: The case of Indonesia**  
 Patunru, Arianto A.  
-In N. Tuerah et al. (Eds.), *Maritime Infrastructure and Regional Development in Indonesia*. Malang: UB Press, 2018, pp. 115–140.
+In N. Tuerah et al. (Eds.), *[Maritime Infrastructure and Regional Development in Indonesia](https://irsa.or.id/2018/08/20/maritime-infrastructure-and-regional-development-in-indonesia/)*. Malang: UB Press, 2018, pp. 115–140.
 
 ---
 
@@ -66,15 +66,15 @@ In N. Tuerah et al. (Eds.), *Maritime Infrastructure and Regional Development in
 
 **INDC and low-carbon technology deployment scenarios: Indonesia**  
 Patunru, Arianto A., and Tsani F. Rakhmah.  
-In V. Anbumozhi and K. Kalirajan (Eds.), *Globalization of Low-carbon Technologies: The Impact of Paris Agreement*. Singapore: Springer, 2017, pp. 83–113.
+In V. Anbumozhi and K. Kalirajan (Eds.), *[Globalization of Low-carbon Technologies: The Impact of Paris Agreement](https://link.springer.com/book/10.1007/978-981-10-4901-9)*. Singapore: Springer, 2017, pp. 83–113.
 
 **Reducing petroleum subsidy in Indonesia: An interregional general equilibrium analysis**  
 Yusuf, Arief A.; Patunru, Arianto A.; and Resosudarmo, Budy P.  
-In A. A. Batabyal and P. Nijkamp (Eds.), *Regional Growth and Sustainable Development in Asia*. Switzerland: Springer, 2017, pp. 91–112.
+In A. A. Batabyal and P. Nijkamp (Eds.), *[Regional Growth and Sustainable Development in Asia](https://link.springer.com/book/10.1007/978-3-319-27589-5)*. Switzerland: Springer, 2017, pp. 91–112.
 
 **Valuing the benefits of cleaner air in Jakarta metropolitan area**  
 Amalia, Mia; Resosudarmo, Budy P.; Bennett, Jeff; and Patunru, Arianto A.  
-In H. Shibusawa et al. (Eds.), *Socioeconomic Environmental Policies and Evaluations in Regional Science*. Singapore: Springer, 2017, pp. 279–297.
+In H. Shibusawa et al. (Eds.), *[Socioeconomic Environmental Policies and Evaluations in Regional Science](https://link.springer.com/book/10.1007/978-981-10-0099-7)*. Singapore: Springer, 2017, pp. 279–297.
 
 ---
 
@@ -82,11 +82,11 @@ In H. Shibusawa et al. (Eds.), *Socioeconomic Environmental Policies and Evaluat
 
 **Toward a low-carbon economy for Indonesia: Aspirations, actions, and scenarios**  
 Patunru, Arianto A., and Arief A. Yusuf.  
-In V. Anbumozhi et al. (Eds.), *Investing in Low-carbon Energy Systems: Implications for Regional Cooperation*. Singapore: Springer, 2016, pp. 79–109.
+In V. Anbumozhi et al. (Eds.), *[Investing in Low-carbon Energy Systems: Implications for Regional Cooperation](https://link.springer.com/book/10.1007/978-981-10-0761-3)*. Singapore: Springer, 2016, pp. 79–109.
 
 **Examining the nexus of poverty-growth-inequality triangle in Indonesia: Empirical evidence from province-level data**  
 Dartanto, Teguh, and Arianto A. Patunru.  
-In S. Otsubo (Ed.), *Globalization and Development Volume II: Country Experiences*. London and New York: Routledge, 2016, pp. 64–83.
+In S. Otsubo (Ed.), *[Globalization and Development Volume II: Country Experiences](https://www.routledge.com/Globalization-and-Development-Volume-II-Country-experiences/Otsubo/p/book/9781138781597)*. London and New York: Routledge, 2016, pp. 64–83.
 
 ---
 
@@ -94,7 +94,7 @@ In S. Otsubo (Ed.), *Globalization and Development Volume II: Country Experience
 
 **Introduction**  
 Athukorala, Prema-chandra; Patunru, Arianto A.; and Resosudarmo, Budy P.  
-In Prema-chandra Athukorala, Arianto A. Patunru and Budy P. Resosudarmo (Eds.), *Trade, Development, and Political Economy in East Asia*. Singapore: ISEAS, 2014, pp. 1–9.
+In Prema-chandra Athukorala, Arianto A. Patunru and Budy P. Resosudarmo (Eds.), *[Trade, Development, and Political Economy in East Asia](https://bookshop.iseas.edu.sg/publication/2033)*. Singapore: ISEAS, 2014, pp. 1–9.
 
 **Local governance and development outcomes**  
 Patunru, Arianto A., and Erman A. Rahman.  
@@ -106,7 +106,7 @@ In Hal Hill (Ed.), *[Regional Dynamics in a Decentralized Indonesia](https://boo
 
 **The political economy of environmental policy in Indonesia**  
 Patunru, Arianto A.  
-In Aris Ananta, Armin Bauer and Myo Thant (Eds.), *The Environments of the Poor in Southeast Asia, East Asia and the Pacific*. Singapore: ISEAS, 2013, pp. 203–220.
+In Aris Ananta, Armin Bauer and Myo Thant (Eds.), *[The Environments of the Poor in Southeast Asia, East Asia and the Pacific](https://bookshop.iseas.edu.sg/publication/1931)*. Singapore: ISEAS, 2013, pp. 203–220.
 
 ---
 
@@ -114,7 +114,7 @@ In Aris Ananta, Armin Bauer and Myo Thant (Eds.), *The Environments of the Poor 
 
 **The political economy of rice and fuel pricing in Indonesia**  
 Patunru, Arianto A., and M. Chatib Basri.  
-In Aris Ananta and Richard Barichello (Eds.), *Poverty, Food, and Global Recession in Southeast Asia: Is the Crisis Over for the Poor?* Singapore: ISEAS, 2011, pp. 203–228.
+In Aris Ananta and Richard Barichello (Eds.), *[Poverty, Food, and Global Recession in Southeast Asia: Is the Crisis Over for the Poor?](https://bookshop.iseas.edu.sg/publication/1226)* Singapore: ISEAS, 2011, pp. 203–228.
 
 ---
 
@@ -122,4 +122,4 @@ In Aris Ananta and Richard Barichello (Eds.), *Poverty, Food, and Global Recessi
 
 **Port competition in Indonesia: Cases of Semarang and Surabaya**  
 Patunru, Arianto A.; Nurridzki, Nanda; and Rivayani.  
-In Douglas Brooks and David Hummels (Eds.), *Infrastructure's Role in Lowering Asia's Trade Costs: Building for Trade*. Cheltenham and Northampton: Edward Elgar, 2009, pp. 113–147.
+In Douglas Brooks and David Hummels (Eds.), *[Infrastructure's Role in Lowering Asia's Trade Costs: Building for Trade](https://www.elgaronline.com/edcollbook/9781848441620.xml)*. Cheltenham and Northampton: Edward Elgar, 2009, pp. 113–147.
