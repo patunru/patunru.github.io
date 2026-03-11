@@ -10,7 +10,7 @@ nav_order: 4
 
 **Nationalist political economy in Indonesia**  
 Patunru, Arianto A., and Muhamad Ikhsan.  
-In Bryan Cheang (Ed.), [*Southeast Asia's Development: Towards Liberal Individualism and Inclusive Governance*.](https://doi.org/10.1093/9780198984184.001.0001) London: Oxford University Press, 2025.
+In Bryan Cheang (Ed.), *[Southeast Asia's Development: Towards Liberal Individualism and Inclusive Governance](https://doi.org/10.1093/9780198984184.001.0001)*. London: Oxford University Press, 2025.
 
 **Political economy of development under Jokowi**  
 Patunru, Arianto A., and Faisal Basri.  
