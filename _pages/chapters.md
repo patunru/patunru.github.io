@@ -14,7 +14,7 @@ In Bryan Cheang (Ed.), *[Southeast Asia's Development: Towards Liberal Individua
 
 **Political economy of development under Jokowi**  
 Patunru, Arianto A., and Faisal Basri.  
-In Sana Jaffrey and Eve Warburton (Eds.), [*The Jokowi Presidency: Indonesia's Decade of Authoritarian Revival*.](https://bookshop.iseas.edu.sg/publication/7971) Singapore: ISEAS–Yusof Ishak Institute, 2025, pp. 63–86.
+In Sana Jaffrey and Eve Warburton (Eds.), *[The Jokowi Presidency: Indonesia's Decade of Authoritarian Revival](https://bookshop.iseas.edu.sg/publication/7971)*. Singapore: ISEAS–Yusof Ishak Institute, 2025, pp. 63–86.
 
 ---
 
@@ -22,7 +22,7 @@ In Sana Jaffrey and Eve Warburton (Eds.), [*The Jokowi Presidency: Indonesia's D
 
 **Climate change policies in Indonesia: Challenges and economic consequences**  
 Patunru, Arianto A., and Budy P. Resosudarmo.  
-In Budy P. Resosudarmo and Yuri Mansury (Eds.), [*The Indonesian Economy and the Surrounding Regions*.](https://link.springer.com/book/10.1007/978-981-97-0122-3) Singapore: Springer, 2024, pp. 97–121.
+In Budy P. Resosudarmo and Yuri Mansury (Eds.), *[The Indonesian Economy and the Surrounding Regions](https://link.springer.com/book/10.1007/978-981-97-0122-3)*. Singapore: Springer, 2024, pp. 97–121.
 
 ---
 
@@ -30,15 +30,15 @@ In Budy P. Resosudarmo and Yuri Mansury (Eds.), [*The Indonesian Economy and the
 
 **Is greater openness to trade good? What are the effects on poverty and inequality?**  
 Patunru, Arianto A.  
-In Richard Barichello, Arianto A. Patunru and Richard Schwindt (Eds.), [*Globalization, Poverty, and Income Inequality: Insights from Indonesia*.](https://press.uchicago.edu/ucp/books/book/distributed/G/bo86430916.html) Vancouver: UBC Press, 2021, pp. 142–168.
+In Richard Barichello, Arianto A. Patunru and Richard Schwindt (Eds.), *[Globalization, Poverty, and Income Inequality: Insights from Indonesia](https://press.uchicago.edu/ucp/books/book/distributed/G/bo86430916.html)*. Vancouver: UBC Press, 2021, pp. 142–168.
 
 **A child's growth is a nation's growth: Children's well-being and inequality in Indonesia**  
 Kusumaningrum, Santi; Patunru, Arianto; Siagian, Clara; and Bennouna, Cyril.  
-In Richard Barichello, Arianto A. Patunru and Richard Schwindt (Eds.), [*Globalization, Poverty, and Income Inequality: Insights from Indonesia*.](https://press.uchicago.edu/ucp/books/book/distributed/G/bo86430916.html) Vancouver: UBC Press, 2021, pp. 89–121.
+In Richard Barichello, Arianto A. Patunru and Richard Schwindt (Eds.), *[Globalization, Poverty, and Income Inequality: Insights from Indonesia](https://press.uchicago.edu/ucp/books/book/distributed/G/bo86430916.html)*. Vancouver: UBC Press, 2021, pp. 89–121.
 
 **COVID-19, food security and trade: The case of Indonesia**  
 Patunru, Arianto A., and Felippa Amanta.  
-In Blane D. Lewis and Firman Witoelar (Eds.), [*Economic Dimensions of COVID-19 in Indonesia: Responding to the Crisis*.](https://bookshop.iseas.edu.sg/publication/2488) Singapore: ISEAS–Yusof Ishak Institute, 2021, pp. 114–136.
+In Blane D. Lewis and Firman Witoelar (Eds.), *[Economic Dimensions of COVID-19 in Indonesia: Responding to the Crisis](https://bookshop.iseas.edu.sg/publication/2488)*. Singapore: ISEAS–Yusof Ishak Institute, 2021, pp. 114–136.
 
 ---
 
@@ -46,7 +46,7 @@ In Blane D. Lewis and Firman Witoelar (Eds.), [*Economic Dimensions of COVID-19 
 
 **Do trade reforms promote nutritional status? Evidence from Indonesia**  
 Kuncoro, Ari; Mansury, Yuri; Patunru, Arianto A.; and Resosudarmo, Budy P.  
-In A. A. Batabyal, Y. Higano and P. Nijkamp (Eds.), [*Disease, Human Health, and Regional Growth and Development in Asia*.](https://link.springer.com/book/10.1007/978-981-13-6268-2) Switzerland: Springer, 2019, pp. 143–161.
+In A. A. Batabyal, Y. Higano and P. Nijkamp (Eds.), *[Disease, Human Health, and Regional Growth and Development in Asia](https://link.springer.com/book/10.1007/978-981-13-6268-2)*. Switzerland: Springer, 2019, pp. 143–161.
 
 ---
 
@@ -54,7 +54,7 @@ In A. A. Batabyal, Y. Higano and P. Nijkamp (Eds.), [*Disease, Human Health, and
 
 **Challenges for Indonesia in the new world**  
 Patunru, Arianto A.; Pangestu, Mari; and Basri, M. Chatib.  
-In Arianto A. Patunru, Mari Pangestu and M. Chatib Basri (Eds.), [*Indonesia in the New World: Globalisation, Nationalism and Sovereignty*.](https://bookshop.iseas.edu.sg/publication/2322) Singapore: ISEAS–Yusof Ishak Institute, 2018, pp. 1–13.
+In Arianto A. Patunru, Mari Pangestu and M. Chatib Basri (Eds.), *[Indonesia in the New World: Globalisation, Nationalism and Sovereignty](https://bookshop.iseas.edu.sg/publication/2322)*. Singapore: ISEAS–Yusof Ishak Institute, 2018, pp. 1–13.
 
 **From cost disease to servicification: The case of Indonesia**  
 Patunru, Arianto A.  
@@ -98,7 +98,7 @@ In Prema-chandra Athukorala, Arianto A. Patunru and Budy P. Resosudarmo (Eds.), 
 
 **Local governance and development outcomes**  
 Patunru, Arianto A., and Erman A. Rahman.  
-In Hal Hill (Ed.), [*Regional Dynamics in a Decentralized Indonesia*.](https://bookshop.iseas.edu.sg/publication/1985) Singapore: ISEAS, 2014, pp. 156–185.
+In Hal Hill (Ed.), *[Regional Dynamics in a Decentralized Indonesia](https://bookshop.iseas.edu.sg/publication/1985)*. Singapore: ISEAS, 2014, pp. 156–185.
 
 ---
 
