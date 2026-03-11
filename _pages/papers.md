@@ -71,19 +71,19 @@ Suryanta, Barli, and Arianto Patunru.
 
 **The impact of objective and subjective valuations on behaviours: A case study of a rare earth processing plant**  
 Jamaludin, Husna, and Arianto Patunru.  
-*The Extractive Industries and Society* 12, 2022.
+*The Extractive Industries and Society* [12, 101185, 2022.](https://doi.org/10.1016/j.exis.2022.101185)
 
 **The impact of employment protection on FDI at different stages of economic development**  
 Ardiyono, Sulistiyo K., and Arianto A. Patunru.  
-*The World Economy* 45(12), 2022: 3679–3714.
+*The World Economy* [45(12), 2022: 3679–3714.](https://doi.org/10.1111/twec.13299)
 
 **The impact of foreign investment on firms' performance: Indonesia after the 2007 FDI reform**  
 Hafiluddin, Nauval, and Arianto A. Patunru.  
-*Economics and Finance in Indonesia* 68(1), 2022: 37–50.
+*Economics and Finance in Indonesia* [68(1), 2022: 37–50.](https://doi.org/10.47291/efi.2022.03)
 
 **Determinants of Foreign Direct Investment in Indonesia**  
 Suryanta, Barli, and Arianto Patunru.  
-*Global Journal of Emerging Market Economies* 15(1), 2022: 109–131.
+*Global Journal of Emerging Market Economies* [15(1), 2022: 109–131.](https://doi.org/10.1177/09749101211067856)
 
 ---
 
@@ -91,15 +91,15 @@ Suryanta, Barli, and Arianto Patunru.
 
 **Does export experience improve firms' productivity? Evidence from Indonesia**  
 Pane, Deasy D., and Arianto A. Patunru.  
-*Journal of Development Studies* 57(12), 2021: 2156–2176.
+*Journal of Development Studies* [57(12), 2021: 2156–2176.](https://doi.org/10.1080/00220388.2021.1965126)
 
 **Repositioning Indonesia in the post-COVID-19 global value chains**  
 Surianta, Andree, and Arianto A. Patunru.  
-*Southeast Asian Affairs*, 2021: 122–138.
+*Southeast Asian Affairs*, [2021: 122–138.](https://www.jstor.org/stable/27075079)
 
 **The impact of tax incentives on FDI in Indonesia**  
 Siregar, Rotua, and Arianto A. Patunru.  
-*Journal of Accounting Auditing and Business* 4(1), 2021: 66–80.
+*Journal of Accounting Auditing and Business* [4(1), 2021: 66–80.](https://journal.unpad.ac.id/jaab/vol4/iss1/6/)
 
 ---
 
@@ -107,11 +107,11 @@ Siregar, Rotua, and Arianto A. Patunru.
 
 **Role of rumours and locals' perceptions on the level of environmental impacts of Lynas Advanced Material Plant, Kuantan, Malaysia**  
 Jamaludin, Husna; Patunru, Arianto; and Lahiri-Dutt, Kuntala.  
-*Resources Policy* 65, 2020.
+*Resources Policy* [65, 101563, 2020.](https://doi.org/10.1016/j.resourpol.2019.101563)
 
 **The impacts of liberalization and trade facilitation on economic performance, poverty and income inequality: An analytical study**  
 Sukoco; Hartono, Djoni; and Patunru, Arianto.  
-*Economic Journal of Emerging Markets* 12(1), 2020: 67–79.
+*Economic Journal of Emerging Markets* [12(1), 2020: 67–79.](https://journal.uii.ac.id/JEP/article/view/13810/10119)
 
 ---
 
@@ -119,11 +119,11 @@ Sukoco; Hartono, Djoni; and Patunru, Arianto.
 
 **Rising economic nationalism in Indonesia**  
 Patunru, Arianto A.  
-*Journal of Southeast Asian Economies* 35(3), 2018: 335–354.
+*Journal of Southeast Asian Economies* [35(3), 2018: 335–354.](https://www.jstor.org/stable/26545317)
 
 **Trade and tax evasion in Indonesia**  
 Yubiwini, and Arianto A. Patunru.  
-*World Customs Journal* 12(2), 2018: 107–120.
+*World Customs Journal* [12(2), 2018: 107–120.](https://doi.org/10.55596/001c.116029)
 
 ---
 
@@ -131,7 +131,7 @@ Yubiwini, and Arianto A. Patunru.
 
 **Access to safe drinking water and sanitation in Indonesia**  
 Patunru, Arianto A.  
-*Asia & Pacific Policy Studies* 2(2), 2015: 234–244.
+*Asia & Pacific Policy Studies* [2(2), 2015: 234–244.](https://doi.org/10.1002/app5.81)
 
 ---
 
@@ -139,15 +139,15 @@ Patunru, Arianto A.
 
 **Recent Indonesian economic development and the urgent need to remove key growth obstacles**  
 Patunru, Arianto A., and Tarsidin.  
-*Asian Economic Papers* 11(3), 2012: 57–77.
+*Asian Economic Papers* [11(3), 2012: 57–77.](https://doi.org/10.1162/ASEP_a_00164)
 
 **How to keep trade policy open: The case of Indonesia**  
 Basri, M. Chatib, and Arianto A. Patunru.  
-*Bulletin of Indonesian Economic Studies* 48(2), 2012: 191–208.
+*Bulletin of Indonesian Economic Studies* [48(2), 2012: 191–208.](https://doi.org/10.1080/00074918.2012.694154)
 
 **A tale of two cities: The political economy of local investment climates in Indonesia**  
 Patunru, Arianto A.; McCulloch, Neil; and von Luebke, Christian.  
-*Journal of Development Studies* 48(7), 2012: 799–816.
+*Journal of Development Studies* [48(7), 2012: 799–816.](https://doi.org/10.1080/00220388.2011.638048)
 
 ---
 
@@ -155,7 +155,7 @@ Patunru, Arianto A.; McCulloch, Neil; and von Luebke, Christian.
 
 **Indonesia’s logistic costs and competitiveness**  
 Patunru, Arianto A.  
-*Strategic Review* 1(2), 2011: 97–105.
+*[Strategic Review](https://sr-indonesia.com)* 1(2), 2011: 97–105.
 
 ---
 
