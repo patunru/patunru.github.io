@@ -163,11 +163,11 @@ Patunru, Arianto A.
 
 **Indonesia’s savior: Fiscal, monetary, trade, or luck?**  
 Patunru, Arianto A., and Zetha, Erna.  
-*Public Policy Review* 6(4), 2010: 721–740.
+*[Public Policy Review](https://www.mof.go.jp/english/pri/publication/pp_review/index.htm)* 6(4), 2010: 721–740.
 
 **Survey of recent development**  
 Patunru, Arianto A., and von Luebke, Christian.  
-*Bulletin of Indonesian Economic Studies* 46(1), 2010: 7–31.
+*Bulletin of Indonesian Economic Studies* [46(1), 2010: 7–31.](https://doi.org/10.1080/00074911003642229)
 
 ---
 
@@ -175,11 +175,11 @@ Patunru, Arianto A., and von Luebke, Christian.
 
 **Agriculture in Indonesia: Lagging performance and difficult choices**  
 Barichello, Richard, and Arianto A. Patunru.  
-*Choices* 24(2), 2009.
+*Choices* [24(2), 2009.](https://www.choicesmagazine.org/UserFiles/file/article_76.pdf)
 
 **Heterodox reform symbioses: The political economy of investment climate reforms in Solo, Indonesia**  
 von Luebke, Christian; McCulloch, Neil; and Patunru, Arianto A.  
-*Asian Economic Journal* 23(3), 2009: 269–297.
+*Asian Economic Journal* [23(3), 2009: 269–297.](https://doi.org/10.1111/j.1467-8381.2009.02012.x)
 
 ---
 
@@ -187,15 +187,15 @@ von Luebke, Christian; McCulloch, Neil; and Patunru, Arianto A.
 
 **Economic benefits of remediating the Buffalo River, NY Area of Concern**  
 Braden, John B.; Taylor, Laura; Won, DooHwan; Mays, Nicole; Cangelosi, Allegra; and Patunru, Arianto A.  
-*Journal of Great Lakes Research* 34(4), 2008: 631–648.
+*Journal of Great Lakes Research* [34(4), 2008: 631–648.](https://doi.org/10.1016/S0380-1330(08)71607-1)
 
 **Economic benefits of remediating the Sheboygan River, WI Area of Concern**  
 Braden, John B.; Taylor, Laura; Won, DooHwan; Mays, Nicole; Cangelosi, Allegra; and Patunru, Arianto A.  
-*Journal of Great Lakes Research* 34(4), 2008: 649–660.
+*Journal of Great Lakes Research* [34(4), 2008: 649–660.](https://doi.org/10.1016/S0380-1330(08)71608-3)
 
 **Language related differences in environmental benefits estimation: Evidence from a mail survey**  
 Ren, Xiaolin; Patunru, Arianto A.; and Braden, John B.  
-*Contemporary Economic Policy* 26(1), 2008: 13–31.
+*Contemporary Economic Policy* [26(1), 2008: 13–31.](https://doi.org/10.1111/j.1465-7287.2007.00060.x)
 
 ---
 
@@ -203,7 +203,7 @@ Ren, Xiaolin; Patunru, Arianto A.; and Braden, John B.
 
 **Who cares about environmental stigma and does it matter? A latent segmentation analysis**  
 Patunru, Arianto A.; Braden, John B.; and Chattopadhyay, Sudip.  
-*American Journal of Agricultural Economics* 89(3), 2007: 712–726.
+*American Journal of Agricultural Economics* [89(3), 2007: 712–726.](https://doi.org/10.1111/j.1467-8276.2007.00988.x)
 
 ---
 
@@ -211,7 +211,7 @@ Patunru, Arianto A.; Braden, John B.; and Chattopadhyay, Sudip.
 
 **Survey of recent development**  
 Basri, M. Chatib, and Arianto A. Patunru.  
-*Bulletin of Indonesian Economic Studies* 42(3), 2006: 295–319.
+*Bulletin of Indonesian Economic Studies* [42(3), 2006: 295–319.](https://doi.org/10.1080/00074910601053193)
 
 ---
 
@@ -219,7 +219,7 @@ Basri, M. Chatib, and Arianto A. Patunru.
 
 **Benefits of hazardous waste cleanup: New evidence from survey- and market-based property value approaches**  
 Chattopadhyay, Sudip; Braden, John B.; and Patunru, Arianto A.  
-*Contemporary Economic Policy* 23(3), 2005: 357–375.
+*Contemporary Economic Policy* [23(3), 2005: 357–375.](https://doi.org/10.1093/cep/byi027)
 
 ---
 
@@ -227,8 +227,8 @@ Chattopadhyay, Sudip; Braden, John B.; and Patunru, Arianto A.
 
 **Can the market take care of the environment? (What literature says about marketable permits)**  
 Patunru, Arianto A.  
-*Economics and Finance in Indonesia* 52(3), 2004: 263–278.
+*[Economics and Finance in Indonesia](https://scholarhub.ui.ac.id/efi/)* 52(3), 2004: 263–278.
 
 **Contaminant cleanup in the Waukegan Harbor Area of Concern: Homeowner attitudes and economic benefits**  
 Braden, John B.; Patunru, Arianto A.; Chattopadhyay, Sudip; and Mays, Nicole.  
-*Journal of Great Lakes Research* 30(4), 2004: 474–491.
+*Journal of Great Lakes Research* [30(4), 2004: 474–491.](https://doi.org/10.1016/S0380-1330(04)70364-0)
