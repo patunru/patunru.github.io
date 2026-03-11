@@ -60,7 +60,7 @@ nav_order: 5
 *Asialink*, [24 October 2024.](https://asialink.unimelb.edu.au/diplomacy/article/prabowo-challenging-economic-inheritance/)
 
 **Pivotal economic challenges for the Prabowo administration**  
-*The Jakarta Post*, October–November 2024.
+*The Jakarta Post*, [October–November 2024.](https://www.thejakartapost.com/opinion/2024/11/02/pivotal-economic-challenges-for-the-prabowo-administration.html)
 
 ---
 
@@ -73,7 +73,7 @@ nav_order: 5
 *East Asia Forum*, [26 October 2023.](https://doi.org/10.59425/eabc.1698314429)
 
 **Why Indonesia wants Australia's help to supply the world with electric vehicles and batteries**  
-*The Conversation*, 6 July 2023.
+*The Conversation*, [6 July 2023.](https://theconversation.com/why-indonesia-wants-australias-help-to-supply-the-world-with-electric-vehicles-and-batteries-209125)
 
 **Australia and Indonesia: neighbours forever, but more ambition needed**  
 (with Hal Hill)  
@@ -93,14 +93,14 @@ nav_order: 5
 
 **To ban or not to ban? How Indonesia can overcome the global food crisis**  
 (with Maria M. Wihardja)  
-*Fulcrum*, 30 May 2022.
+*Fulcrum*, [30 May 2022.](https://fulcrum.sg/to-ban-or-not-to-ban-how-indonesia-can-overcome-the-global-food-crisis/)
 
 ---
 
 ### 2021
 
 **On the inaugural Indonesia–Australia Economic, Trade and Investment Ministers' Meeting**  
-*Indonesia Project Forum*, 9 July 2021.
+*Indonesia Project Forum*, [9 July 2021.](https://www.indonesiaproject.net/news/on-the-inaugural-indonesia-australia-economic-trade-and-investment-ministers-meeting)
 
 ---
 
@@ -120,7 +120,7 @@ nav_order: 5
 
 **Jokowi wants Indonesia to be rich by 2045**  
 (with Hal Hill)  
-*Australian Financial Review*, 7 February 2020.
+*Australian Financial Review*, [7 February 2020.](https://www.afr.com/world/asia/jokowi-wants-indonesia-to-be-rich-by-2045-20200206-p53ycc)
 
 ---
 
