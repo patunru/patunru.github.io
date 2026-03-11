@@ -13,3 +13,9 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.social .contact-icons i,
+.social .social-icons i,
+.contact-icons i {
+  font-size: 0.8rem;
+}
