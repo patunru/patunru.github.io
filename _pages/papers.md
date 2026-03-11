@@ -18,15 +18,15 @@ Athukorala, Prema-chandra, and Arianto A. Patunru.
 
 **Energy and emission change in industrial sectors: Evidence from Indonesia**  
 Zain, Rezky K.; Patunru, Arianto A.; and Hartono, Djoni.  
-*Energy Sources, Part B: Economics, Planning, and Policy* 20(1), 2025.
+*Energy Sources, Part B: Economics, Planning, and Policy* [20(1), 2532161, 2025.](https://doi.org/10.1080/15567249.2025.2532161)
 
 **Projecting the long run impact of an economic reform: The case of the Indonesian Omnibus Law**  
 Gupta, Krisna; Patunru, Arianto A.; and Gretton, Paul.  
-*Asian-Pacific Economic Literature* 39(1), 2025: 102–130.
+*Asian-Pacific Economic Literature* [39(1), 2025: 102–130.](https://doi.org/10.1111/apel.12428)
 
 **Should developed regions bear more responsibility in addressing environmental issues? Insights from Indonesia's unequal regional development**  
 Muhammad, Fikri; Hartono, Djoni; Hastuti, Sasmita Hastri; Patunru, Arianto A.; and Balya, Audhi Ahmad.  
-*Energy Nexus* 17, 2025.
+*Energy Nexus* [17, 100334, 2025.](https://doi.org/10.1016/j.nexus.2024.100334)
 
 ---
 
@@ -34,35 +34,36 @@ Muhammad, Fikri; Hartono, Djoni; Hastuti, Sasmita Hastri; Patunru, Arianto A.; a
 
 **Examining policies on controlling prices: Indonesian crude palm oil (CPO) and cooking oil**  
 Putra, Febrian P., and Arianto A. Patunru.  
-*Journal of Southeast Asian Economies* 41(2), 2024: 125–151.
+*Journal of Southeast Asian Economies* [41(2), 2024: 125–151.](https://www.jstor.org/stable/27422501)
+
+**The political economy of COVID-19 vaccination in Indonesia**  
+Surianta, Andree, and Arianto A. Patunru.  
+*Asia and the Pacific Policy Studies*, [11(1), 2023.](https://doi.org/10.1002/app5.381)
+
 
 ---
 
 ### 2023
 
-**The political economy of COVID-19 vaccination in Indonesia**  
-Surianta, Andree, and Arianto A. Patunru.  
-*Asia and the Pacific Policy Studies*, 2023.
-
 **Trade policy in Indonesia: Between ambivalence, pragmatism, and nationalism**  
 Patunru, Arianto A.  
-*Bulletin of Indonesian Economic Studies* 59(3), 2023: 311–340.
+*Bulletin of Indonesian Economic Studies* [59(3), 2023: 311–340.](https://doi.org/10.1080/00074918.2023.2282821)
 
 **Domestic value added, exports, and employment: An input-output analysis of Indonesian manufacturing**  
 Athukorala, Prema-chandra, and Arianto A. Patunru.  
-*Bulletin of Indonesian Economic Studies* 59(3), 2023: 365–390.
+*Bulletin of Indonesian Economic Studies* [59(3), 2023: 365–390.](https://doi.org/10.1080/00074918.2022.2134554)
 
 **Measuring trade in value added: How valid is the proportionality assumption?**  
 Patunru, Arianto A., and Prema-chandra Athukorala.  
-*Economic Systems Research* 35(2), 2023: 292–300.
+*Economic Systems Research* [35(2), 2023: 292–300.](https://doi.org/10.1080/09535314.2021.1965549)
 
 **The role of imported inputs in firms' productivity and exports: Evidence from Indonesia**  
 Pane, Deasy D., and Arianto A. Patunru.  
-*Review of World Economics* 159, 2023: 629–672.
+*Review of World Economics* [159, 2023: 629–672.](https://doi.org/10.1007/s10290-022-00476-z)
 
 **Trade impediments in Indonesia**  
 Suryanta, Barli, and Arianto Patunru.  
-*Journal of Economic Integration* 38(2), 2023: 247–277.
+*Journal of Economic Integration* [38(2), 2023: 247–277.](https://doi.org/10.11130/jei.2023.38.2.247)
 
 ---
 
