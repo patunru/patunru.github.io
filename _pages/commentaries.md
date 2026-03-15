@@ -41,6 +41,10 @@ In Takatoshi Ito and Andrew K. Rose (Eds.), *Commodity Prices and Markets (NBER 
 
 ## Referee Duties
 
+Editor for:
+
+*[Bulletin of Indonesian Economic Studies](https://www.tandfonline.com/journals/cbie20)* (Taylor & Francis on behalf of ANU Indonesia Project)
+
 Referee for the following journals:
 
 - *Applied Economics* (Taylor & Francis)  
