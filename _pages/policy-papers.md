@@ -32,6 +32,9 @@ nav_order: 5
 
 ### 2026
 
+**US–Indonesia trade deal reinforces case for RCEP centrality**
+*East Asia Forum*, [27 March 2026.](https://doi.org/10.59425/eabc.1774605600)
+
 **Is the Feb. 19 Indonesia–US trade deal fair?**  
 *The Jakarta Post*, [24 February 2026.](https://www.thejakartapost.com/opinion/2026/02/24/is-the-feb-19-indonesiaus-trade-deal-fair.html)
 
