@@ -7,7 +7,7 @@ nav_order: 9
 
 ---
 
-I read across economics, history, politics, science, and fiction. This page collects brief notes on books I have found illuminating, enjoyable, or worth revisiting (for complete list every year, see my old website).
+I read (sometimes reread) across economics, history, politics, science, and fiction (and everything else that interests me). This page collects brief notes on books (or other forms such as PhD thesis) I have found illuminating, enjoyable, or worth revisiting (for complete list every year, see my [old website](https://sites.google.com/site/patunru)).
 
 ## 2025
 
@@ -56,7 +56,13 @@ A lyrical work that reads almost like an extended poem. Its treatment of gender,
 
 Tohari’s stories are simple only on the surface. Their rural settings and quiet tone make the social tensions underneath feel even stronger.
 
-### *The Art of Travel* — Alain de Botton
+### *The Art of Travel* — Alain de Botton (2004)
 *Non-fiction | essays*
 
 A reflective and very readable meditation on why we travel, and what we expect travel to do for us. One of de Botton’s more graceful books.
+
+### Other books read in 2025
+
+The following titles were also part of my 2025 reading (brief comments [here](https://sites.google.com/site/patunru) —not necessarily flattening)
+
+*Sri Mulyani Indrawati* — Metta Dharmasaputra (2024); *Merlin's Tour of the Universe* — Neil deGrasse Tyson (2004); *The Slefish Gene* — Richard Dawkins (1976); *Pengantin-pengantin Loki Tua* — Yusi A Pareanom (2023); *A Concise Guide to Macroeconomics* — David A Moss (2007); *Obrolan Sukab* — Seno G Ajidarma (2023); *Memories of Muhammad* — Omid Safi (2009); *Ny Talis* — Budi Darma (1996); *The Geography of Genius* — Eric Weiner (2016); *The Greek Lesson* — Han Kang (2024); *Is Southeast Asia a Solution for Manufacturers Relocating out of China?* — Lai Chun Chieh (2025); *Perdagangan dan Industri dalam Pembangunan* — Sumitro Djojohadikusumo (1985); *Teori Ekonomi dan Kebijaksanaan Pembangunan* — Hendra Esmara (ed) (1987); *Science, Resources and Development* — Sumitro Djojohadikusumo (1977); *Dasar Teori Ekonomi Pertumbunan dan Ekonomi Pembangunan* — Sumitro Djojohadikusumo (1994); *Memorial Days* — Geraldine Brooks (2025); *House of Huawei* — Eva Dou (2025); *The Nvidia Way* — Tae Kim (2025); *Why Politicians Lie about Trade* — Dmitry Grozoubinzki (2025); *Practice Beyond the Posture* — Abdulvahid Coskun (2025); *How to Lie with Statistics* — Darrell Huff (1954); *Fever Dream* — Samantha Schweblin (2017); *Breakneck* — Dan Wang (2025); *Abdundance* — D Thomson & E Klein (2025); *Breaking Through* — Katalin Kariko (2023); *Charaiveti* — Pranab Bardhan (2024); *A Culture of Growth* — Joel Mokyr (2018); *Replaceable You* — Mary Roach (2025); *The Art and Science of Judo* — J Watanabe & L Avakian (2022); *84 Yoga Asanas* — Buddha Bose (2015); *Southeast Asia's Development Towards Liberal Individualism and Inclusive Governance* — Bryan Chean (ed) (2025); *Stepchildren of the Progress* — Kathryn Robinson (1983); *Shared Prosperity in Fractured World* — Dani Rodrik (2025); *Revolusi* — David van Reybrouck (2020); *No One id Too Small to Make a Difference* — Greta Thunberg (2019); *Violent Saviours* — William Easterly (2025); *Hope for Autoimmune Diseases* — A Chrapkiewicz & J Lane (2020); *Exile Economics* — Ben Chu (2025); *Breakfast at Tiffany's* — Truman Capote (1950); *The Rise of China's Industrial Policy* — Barry Naughton (2021).
