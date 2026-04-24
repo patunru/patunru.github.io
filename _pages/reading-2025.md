@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Reading Notes
-permalink: /reading/
+title: Reading Notes: 2025
+permalink: /reading-2025/
 nav: true
-nav_order: 9
 
 ---
 
