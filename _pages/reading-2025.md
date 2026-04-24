@@ -2,7 +2,6 @@
 layout: page
 title: "Reading Notes: 2025"
 permalink: /reading-2025/
-nav: true
 
 ---
 
