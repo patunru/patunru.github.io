@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reading Notes
+title: Reading
 permalink: /reading/
 nav: true
 nav_order: 9
