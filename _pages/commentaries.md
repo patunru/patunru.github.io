@@ -74,5 +74,6 @@ Referee for the following journals:
 - *Journal of Quantitative Economics* (Springer)  
 - *Journal of the Asia Pacific Economy* (Taylor & Francis)  
 - *Letters in Spatial and Resource Sciences* (Springer)  
-- *PLOS ONE*  
+- *PLOS ONE*
+- *The Pacific Review* (Taylor & Francis)  
 - *World Development* (Elsevier)
