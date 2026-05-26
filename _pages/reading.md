@@ -58,6 +58,12 @@ A provocative essay arguing that Australia has long neglected Southeast Asia. Wh
 
 A very readable account of how economic power is deployed in contemporary conflict. Particularly useful for understanding sanctions, trade controls, and the ways in which finance and supply chains have become instruments of war.
 
+### Nuclear War: A Scenario  
+**Annie Jacobsen** (2025)  
+*Non-fiction*
+
+I have listed this under non-fiction, though it reads almost like fiction: a scenario-driven account of what could unfold in the event of a full-scale nuclear war. It is fascinating—and terrifying. Reading it feels a little like watching Kathryn Bigelow’s *A House of Dynamite*, but with more technical detail, institutional context, and procedural realism. I came to the book after hearing Jeff Sachs refer to it in a talk. Its conclusion is difficult to escape: when it comes to nuclear warfare, fear is not irrational. It is necessary.
+
 ### *Other books read in 2026 so far*
 
 The following titles were also part of my 2026 reading so far.
