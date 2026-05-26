@@ -32,6 +32,9 @@ nav_order: 5
 
 ### 2026
 
+**Tata kelola ekspor komoditas sumber daya alam**
+*Kompas*, [25 May 2026.](https://www.kompas.id/artikel/tata-kelola-ekspor-komoditas-sumber-daya-alam)
+
 **US–Indonesia trade deal reinforces case for RCEP centrality**
 *East Asia Forum*, [27 March 2026.](https://doi.org/10.59425/eabc.1774605600)
 
