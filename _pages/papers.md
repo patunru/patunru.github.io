@@ -9,7 +9,7 @@ nav_order: 3
 ### Forthcoming
 
 **Indonesia's geoeconomic statecraft and the future of Southeast Asian economic order**  
-Patunru, Arianto A.
+Patunru, Arianto A.  
 *Asia Policy* (forthcoming)
 
 ---
