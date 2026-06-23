@@ -32,16 +32,16 @@ nav_order: 5
 
 ### 2026
 
-**Indonesia's slow-motion loss of macro credibility**
+**Indonesia's slow-motion loss of macro credibility**  
 *Asialink*, [15 June 2026.](https://asialink.unimelb.edu.au/diplomacy/insights/indonesias-slow-motion-loss-macro-credibility/)
 
-**Tata kelola ekspor komoditas sumber daya alam**
+**Tata kelola ekspor komoditas sumber daya alam**  
 *Kompas*, [25 May 2026.](https://www.kompas.id/artikel/tata-kelola-ekspor-komoditas-sumber-daya-alam)
 
-**US–Indonesia trade deal reinforces case for RCEP centrality**
+**US–Indonesia trade deal reinforces case for RCEP centrality**  
 *East Asia Forum*, [27 March 2026.](https://doi.org/10.59425/eabc.1774605600)
 
-**Is the Feb. 19 Indonesia–US trade deal fair?**  
+**Is the Feb. 19 Indonesia–US trade deal fair?**   
 *The Jakarta Post*, [24 February 2026.](https://www.thejakartapost.com/opinion/2026/02/24/is-the-feb-19-indonesiaus-trade-deal-fair.html)
 
 **Indonesia's economy needs credible policy, not quixotic targets**  
@@ -51,7 +51,7 @@ nav_order: 5
 
 ### 2025
 
-**Can Indonesia rise to the Trump tariff challenge?**
+**Can Indonesia rise to the Trump tariff challenge?**  
 *Asialink*, [8 April 2025.](https://asialink.unimelb.edu.au/diplomacy/can-indonesia-rise-trump-tariff-challenge/)
 
 **Indonesia's school lunches: Not so free** (with Maria M. Wihardja)  
