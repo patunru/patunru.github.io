@@ -12,6 +12,8 @@ nav_order: 3
 Patunru, Arianto A.
 *Asia Policy*
 
+---
+
 ### 2026
 
 **Indonesia in global manufacturing value chains: Policy ambivalence and arrested growth**  
