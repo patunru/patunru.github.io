@@ -32,6 +32,9 @@ nav_order: 5
 
 ### 2026
 
+**Indonesia's slow-motion loss of macro credibility**
+*Asialink*, [15 June 2026.](https://asialink.unimelb.edu.au/diplomacy/insights/indonesias-slow-motion-loss-macro-credibility/)
+
 **Tata kelola ekspor komoditas sumber daya alam**
 *Kompas*, [25 May 2026.](https://www.kompas.id/artikel/tata-kelola-ekspor-komoditas-sumber-daya-alam)
 
