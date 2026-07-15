@@ -86,6 +86,7 @@ nav_order: 7
 
 ## Master Supervision
 
+- **Choirin Nisaa'** (2026) – Trade agreements
 - **Wahyu Syah** (2025) — Trade agreements (IA-CEPA)  
 - **Ahmad Fahriza** (2025) — Trade agreements  
 - **Zithny Prihastopo** (2025) — Fiscal decentralisation  
