@@ -6,15 +6,14 @@ nav: true
 nav_order: 3
 ---
 
-### Forthcoming
-
-**Indonesia's geoeconomic statecraft and the future of Southeast Asian economic order**  
-Patunru, Arianto A.  
-*Asia Policy* (forthcoming)
-
 ---
 
 ### 2026
+
+**Indonesia's geoeconomic statecraft and the future of Southeast Asian economic order**  
+Patunru, Arianto A.  
+*Asia Policy* [21(3), July 2026: 67–81.](https://www.nbr.org/publication/building-geoeconomic-toolkits-asia-pacific-middle-powers-in-an-era-of-strategic-competition/)
+
 
 **Indonesia in global manufacturing value chains: Policy ambivalence and arrested growth**  
 Athukorala, Prema-chandra, and Arianto A. Patunru.  
