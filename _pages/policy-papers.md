@@ -138,7 +138,7 @@ nav_order: 5
 ### 2026
 
 **The US–Indonesia Agreement on Reciprocal Trade: Three Views on its Economic and Strategic Impacts** 
-Pambagyo, Iman; Patunru, Arianto; and Pane, Deasy. 
+Pambagyo, Iman; Patunru, Arianto; and Pane, Deasy.  
 [Perspective No. 54](https://www.iseas.edu.sg/articles-commentaries/iseas-perspective/2026-54-the-us-indonesia-agreement-on-reciprocal-trade-three-views-on-its-economic-and-strategic-impacts-by-iman-pambagyo-arianto-patunru-and-deasy-pane/), ISEAS Yusof Ishak Institute, 2026.
 
 ### 2021
