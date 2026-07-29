@@ -63,8 +63,18 @@ A very readable account of how economic power is deployed in contemporary confli
 
 I have listed this under non-fiction, though it reads almost like fiction: a scenario-driven account of what could unfold in the event of a full-scale nuclear war. It is fascinating—and terrifying. Reading it feels a little like watching Kathryn Bigelow’s *A House of Dynamite*, but with more technical detail, institutional context, and procedural realism. I came to the book after hearing Jeff Sachs refer to it in a talk. Its conclusion is difficult to escape: when it comes to nuclear warfare, fear is not irrational. It is necessary.
 
+### *Lula!* - Richard Lapper (2026)   
+*Non-fiction*   
+
+The FT veteran journalist Richard Lapper traces Luiz Inácio Lula da Silva's remarkable political journey—from union leader and president to imprisonment, political rehabilitation, and return to office. Beyond the biography, the book offers a nuanced account of Brazil's institutions, economic policymaking, and the tensions between social inclusion, fiscal discipline, and democratic resilience. A timely read for anyone interested in Latin American political economy and the challenges facing emerging democracies.
+
+### *Social Justice Fallacies* - Thomas Sowell (2023)   
+*Non-fiction*   
+
+Thomas Sowell examines the assumptions underlying contemporary debates on social justice, arguing that good intentions often lead to policies with unintended and counterproductive consequences. Whether or not one agrees with all of his conclusions, the book is a rigorous exercise in economic reasoning and a reminder of the importance of incentives, trade-offs, and empirical evidence in evaluating public policy. It is best read as a challenge to one's thinking rather than as a definitive statement of doctrine.
+
 ### *Other books read in 2026 so far*
 
 The following titles were also part of my 2026 reading so far.
 
-*Two Spies in Caracas* — Moises Naim (2018); *Broken Strings* — Aurelie Moeremans (2025); *Chronicle of a Death Foretold* — Gabriel Garcia Marquez (2014); *Autobiografi Erros Djarot* — Erros Djarot (2025); *Minarets in the Mountain* — Tharik Hussain (2021); *Chronological Order of the Holy Quran* — Zaugham Mahmood (2021); *Mineral War* — Tomasz Nadrowski (2026); *The Age of Unpeace* — Mark Leonard (2021); *How Africa Works* - Joe Studwell (2026); *Ruling Indonesia* - Marcus Mietzner (2026); *Asian Godfathers* - Joe Studwell (2007)
+*Two Spies in Caracas* — Moises Naim (2018); *Broken Strings* — Aurelie Moeremans (2025); *Chronicle of a Death Foretold* — Gabriel Garcia Marquez (2014); *Autobiografi Erros Djarot* — Erros Djarot (2025); *Minarets in the Mountain* — Tharik Hussain (2021); *Chronological Order of the Holy Quran* — Zaugham Mahmood (2021); *Mineral War* — Tomasz Nadrowski (2026); *The Age of Unpeace* — Mark Leonard (2021); *How Africa Works* - Joe Studwell (2026); *Ruling Indonesia* - Marcus Mietzner (2026); *Asian Godfathers* - Joe Studwell (2007); *How to Win a Trade War* - Soumaya Keynes & Chad Bown (2026); *Taiwan Travelogue* - Yang Shuang-Zi (2025); *Global Thailand* - Narongchai Akrasanee (2023); *Jalan Tak Ada Ujung* - Mochtar Lubis (1952); *Studen Hidjo* - Marco Kartodikromo (1919); *Raja dan Batu Langit* - Kompas (2024); *Harimau! Hariamu!* - Mochtar Lubis (1992)
